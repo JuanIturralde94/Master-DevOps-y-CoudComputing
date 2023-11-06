@@ -10,7 +10,7 @@
   background-color: #1b1b32;
   color: white;
   border-radius: 25px;
-  border: 2px solid white;
+  border: 2px solid rgb(255, 255, 255);
   margin: 4px;
   cursor: pointer;
   user-select: none;
@@ -21,7 +21,7 @@
 }
 
 .operador {
-  background-color: #00471b;
+  background-color: #400047;
 }
 
 .operador:hover {
